@@ -1,6 +1,6 @@
 # Airline-Reservation-System
 
-This Simple Airline Reservation system was developed as the semester project of Semester 4 CS3042 Database Systems Module.
+This Simple Airline Reservation system 
 
 ## Screenshots
 
